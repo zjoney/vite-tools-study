@@ -13,6 +13,6 @@ npm init vite-app projectName
 ```
 "my-dev": "zf-vite",
 ```
-
+## 项目搭建
 - 1.通过脚手架新建项目 vite-project
-- 
+- 2.自定义实现vite
